@@ -1,7 +1,7 @@
 # TextToImageConverter
 # For Backend:
   Requirements :
-  Python version 3.9 and above is required to be already installed
+  Python version 3.9 and above is required to be already installed\
   Step1 : Clone the repo using command\
   git clone https://github.com/oshankpiplani/TextToImageConverter.git \
   Step2 : Navigate to backend folder using command\
